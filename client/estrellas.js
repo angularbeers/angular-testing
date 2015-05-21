@@ -20,7 +20,7 @@ angular.module('valoracion', [
         },
         link: function(scope, element, attrs) {
             scope.$watch( attrs.estrellas, function( value, oldValue ){
-                var starElements = element.find('.glyphicon');
+                var starElements = element.find('span');
 
                 angular.forEach( starElements, function( starEl, key ){
                     var el = angular.element( starEl );
