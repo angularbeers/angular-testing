@@ -1,5 +1,13 @@
-js-seed [![Build Status](https://travis-ci.org/jseto/js-seed.svg?branch=master)](https://travis-ci.org/jseto/js-seed)
-============
+En este repo esta el live coding que hicimos en el [Meetup](http://www.meetup.com/AngularJS-Beers/events/221908399/) del pasado 21 de mayo de 2015, pero terminado.
+Para uso y disfrute de los que asistieron y de los que no. Podéis hacer las preguntas que queráis a través
+de las issues, así la cosa sera mas divertida.
+
+A continuación tenéis unas indicaciones de como manejaros con el proyecto.
+
+
+
+[js-seed](https://github.com/jseto/js-seed)
+===========================================
 
 __A starter project for Angular.__
 
