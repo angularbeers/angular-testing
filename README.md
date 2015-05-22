@@ -4,7 +4,7 @@ de las issues, así la cosa sera mas divertida.
 
 A continuación tenéis unas indicaciones de como manejaros con el proyecto.
 
-
+Por cierto, a los que les gustó el package que convierte las especificaciones de lenguaje natural a sintaxis Jasmine es [plain-2-jasmine](https://atom.io/packages/plain-2-jasmine). Funciona en Atom. Para los de Sublime tenéis [Jasmine-Scaffold](https://github.com/swirlycheetah/jasmine-scaffold-sublime-text) que hace lo mismo, pero su autor no lleva casco con cuernos :-)
 
 [js-seed](https://github.com/jseto/js-seed)
 ===========================================
